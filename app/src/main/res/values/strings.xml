@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KeyboardExperiments</string>
+    <string name="hello_keyboard">Hello, Keyboard!</string>
+    <string name="text_field">I am a text field.</string>
+    <string name="open_compose_bottom_sheet">Open compose bottom sheet</string>
+    <string name="open_nav_graph_bottom_sheet">Open nav graph bottom sheet</string>
+    <string name="open_xml_bottom_sheet">Open xml bottom sheet</string>
+    <string name="close_bottom_sheet">Close bottom sheet</string>
+</resources>
